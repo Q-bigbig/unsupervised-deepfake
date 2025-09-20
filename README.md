@@ -6,60 +6,58 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
 </p>
 
----
-
 ## 📢 News
 
 - 📑 Our paper *"Unsupervised Deepfake Detection via Camera Source Clustering and Temporal-Spatial Features"* is currently **under review** (response stage).
 - 📂 The full implementation will be **open-sourced here** once the paper is officially accepted.
 - ⭐ Feel free to watch/star this repo to stay updated.
 
----
+<br/>
 
 ## 📄 Paper
 
 > **Title:** Unsupervised Deepfake Detection via Camera Source Clustering and Temporal-Spatial Features  
-> **Authors:** Chenxu Lu, Zahid Akhtar, Zhuang Li, and Tong Qiao*
-> **Conference/Journal:** Under Review, 2025  
+> **Authors:** Chenxu Lu, Zahid Akhtar, Zhuang Li, and Tong Qiao*  
+> **Conference/Journal:** Under Review, 2025
 
----
+<br/>
 
 ## 📌 Repository Overview
 
 This repository will include:
 
-- 🧩 Core algorithms & implementation  
-- 📊 Experimental setup & evaluation pipeline  
-- 🛠️ Training/inference scripts  
-- 📈 Benchmark results and pretrained models  
+- 🧩 Core algorithms & implementation
+- 📊 Experimental setup & evaluation pipeline
+- 🛠️ Training/inference scripts
+- 📈 Benchmark results and pretrained models
 
 Our mission is to ensure **reproducibility** and support the community in advancing **trustworthy generative AI safety**.
 
----
+<br/>
 
 ## 📅 Release Plan
 
-| Stage              | Content                               | ETA  |
-| ------------------ | ------------------------------------- | ---- |
-| 🚧 Current         | Paper under review (response stage)   | 2025 |
-| ⏳ After Acceptance | Release source code & documentation   | TBD  |
-| 🔓 Full Release    | Pretrained models & benchmark results | TBD  |
+| Stage | Content | ETA |
+| --- | --- | --- |
+| 🚧 Current | Paper under review (response stage) | 2025 |
+| ⏳ After Acceptance | Release source code & documentation | TBD |
+| 🔓 Full Release | Pretrained models & benchmark results | TBD |
 
----
+<br/>
 
 ## 🤝 Contribution
 
 Contributions are welcome after the official code release.  
 For now, please feel free to **open issues** for discussions or suggestions.
 
----
+<br/>
 
 ## 📧 Contact
 
 For questions or collaboration opportunities:  
-📩 Email: tong.qiao@hdu.edu.cn  
+📩 Email: tong.qiao@hdu.edu.cn
 
----
+<br/>
 
 <p align="center">
   <i>⭐ If you find this project interesting, please consider starring it — updates will follow once the paper is accepted! ⭐</i>
